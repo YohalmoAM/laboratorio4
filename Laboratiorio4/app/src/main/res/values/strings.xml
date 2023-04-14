@@ -1,0 +1,13 @@
+<resources>
+    <string name="appication_name">Laboratorio4</string>
+    <string name="fill_info_txt">Please fill the following blanks</string>
+    <string name="name_hint_txt">Name</string>
+    <string name="email_hint_txt">email</string>
+    <string name="phone_hint_txt">Phone number</string>
+    <string name="save_button_txt">Save</string>
+    <string name="confirm_information_txt">Confirm</string>
+    <string name="name_txt">Name: %s</string>
+    <string name="email_txt">email: %s</string>
+    <string name="phone_txt">Phone number: %d</string>
+    <string name="share_button_txt">Share</string>
+</resources>
